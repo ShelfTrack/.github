@@ -52,4 +52,4 @@ This project is licensed under the **Apache License 2.0**.
 
 
 ## 📞 **Support & Contribution**
-For feature requests Contact on smartshelf25@outlook.com , bug reports, or contributions, feel free to open an issue or a pull request in this repository.
+For feature requests Contact on shelftrack@outlook.com , bug reports, or contributions, feel free to open an issue or a pull request in this repository.
